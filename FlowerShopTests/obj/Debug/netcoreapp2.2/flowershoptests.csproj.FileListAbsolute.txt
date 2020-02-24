@@ -1,0 +1,16 @@
+J:\git_files_pracs\flowershop\flowershoptests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+J:\git_files_pracs\flowershop\flowershoptests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+J:\git_files_pracs\flowershop\flowershoptests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+J:\git_files_pracs\flowershop\flowershoptests\bin\Debug\netcoreapp2.2\flowershoptests.deps.json
+J:\git_files_pracs\flowershop\flowershoptests\bin\Debug\netcoreapp2.2\flowershoptests.runtimeconfig.json
+J:\git_files_pracs\flowershop\flowershoptests\bin\Debug\netcoreapp2.2\flowershoptests.runtimeconfig.dev.json
+J:\git_files_pracs\flowershop\flowershoptests\bin\Debug\netcoreapp2.2\flowershoptests.dll
+J:\git_files_pracs\flowershop\flowershoptests\bin\Debug\netcoreapp2.2\flowershoptests.pdb
+J:\git_files_pracs\flowershop\flowershoptests\bin\Debug\netcoreapp2.2\FlowerShop.dll
+J:\git_files_pracs\flowershop\flowershoptests\bin\Debug\netcoreapp2.2\FlowerShop.pdb
+J:\git_files_pracs\flowershop\flowershoptests\obj\Debug\netcoreapp2.2\flowershoptests.csprojAssemblyReference.cache
+J:\git_files_pracs\flowershop\flowershoptests\obj\Debug\netcoreapp2.2\flowershoptests.AssemblyInfoInputs.cache
+J:\git_files_pracs\flowershop\flowershoptests\obj\Debug\netcoreapp2.2\flowershoptests.AssemblyInfo.cs
+J:\git_files_pracs\flowershop\flowershoptests\obj\Debug\netcoreapp2.2\flowershoptests.csproj.CopyComplete
+J:\git_files_pracs\flowershop\flowershoptests\obj\Debug\netcoreapp2.2\flowershoptests.dll
+J:\git_files_pracs\flowershop\flowershoptests\obj\Debug\netcoreapp2.2\flowershoptests.pdb

@@ -1,0 +1,10 @@
+J:\git_files_pracs\flowershop\FlowerShop\bin\Debug\netcoreapp2.2\FlowerShop.deps.json
+J:\git_files_pracs\flowershop\FlowerShop\bin\Debug\netcoreapp2.2\FlowerShop.runtimeconfig.json
+J:\git_files_pracs\flowershop\FlowerShop\bin\Debug\netcoreapp2.2\FlowerShop.runtimeconfig.dev.json
+J:\git_files_pracs\flowershop\FlowerShop\bin\Debug\netcoreapp2.2\FlowerShop.dll
+J:\git_files_pracs\flowershop\FlowerShop\bin\Debug\netcoreapp2.2\FlowerShop.pdb
+J:\git_files_pracs\flowershop\FlowerShop\obj\Debug\netcoreapp2.2\FlowerShop.csprojAssemblyReference.cache
+J:\git_files_pracs\flowershop\FlowerShop\obj\Debug\netcoreapp2.2\FlowerShop.AssemblyInfoInputs.cache
+J:\git_files_pracs\flowershop\FlowerShop\obj\Debug\netcoreapp2.2\FlowerShop.AssemblyInfo.cs
+J:\git_files_pracs\flowershop\FlowerShop\obj\Debug\netcoreapp2.2\FlowerShop.dll
+J:\git_files_pracs\flowershop\FlowerShop\obj\Debug\netcoreapp2.2\FlowerShop.pdb
